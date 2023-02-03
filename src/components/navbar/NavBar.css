@@ -1,0 +1,13 @@
+.justify__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 7rem;
+}
+
+@media screen and (max-width: 982px) {
+  .justify__content {
+    justify-content: center;
+    margin-left: 1rem;
+  }
+}
