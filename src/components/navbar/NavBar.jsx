@@ -50,7 +50,7 @@ function NavBar() {
             <Nav.Link className="fs-5 " href="#usecallback">
               useCallBack
             </Nav.Link>
-            <Nav.Link className="fs-5 " href="#usememe">
+            <Nav.Link className="fs-5 " href="#usememo">
               useMeme
             </Nav.Link>
             <Main />
